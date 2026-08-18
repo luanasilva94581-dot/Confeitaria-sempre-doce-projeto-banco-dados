@@ -22,5 +22,7 @@ A **confeitaria sempre doce** deseja expandir sua atuação criando um site para
  - Telefone
  - Endereço
  - Texto da mensagem 
-
- 
+## fluxograma
+ ![](diagrama.png)
+## modelologico
+ ![](modelo-logico.png)
